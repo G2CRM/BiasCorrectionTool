@@ -5,6 +5,12 @@ A PyQt-based desktop application designed to apply absolute and optional relativ
 ## Prerequisites
 
    Python 3.x
+   h5py>=3.16.0
+   numpy
+   PyQt6>=6.11.0
+   qtpy>=2.4.3
+   scipy>=1.15.3
+
 
 ## Installation
 
